@@ -110,4 +110,5 @@ main {
   background-color: #918E9B;
   border-radius: 5px;
   border: none;
+  cursor: pointer;
 }

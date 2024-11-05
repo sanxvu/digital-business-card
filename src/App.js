@@ -10,8 +10,12 @@ export default function App() {
       <p className="email">sanxvu@gmail.com</p>
 
       <container>
-        <button className="website-button"><i class="fa fa-globe"></i> Website</button>
-        <button className="linkedin-button"><i class="fa fa-linkedin-square"></i> LinkedIn</button>
+        <a href="https://sanxvu.wixsite.com/mysite" target="_blank">
+          <button className="website-button"><i class="fa fa-globe"></i> Website</button>
+        </a>
+        <a href="https://linkedin.com/in/sanvu" target="_blank">
+          <button className="linkedin-button"><i class="fa fa-linkedin-square"></i> LinkedIn</button>
+        </a>
       </container>
 
       <container className="bio">
@@ -21,9 +25,15 @@ export default function App() {
         <p className="description">Software development. UI/UX design. Product management. Community building. Teaching. Crochet. Line dancing. Pole dancing. Singing. Snowboarding. Rock climbing. TOO MANY.</p>
       </container>
       <container className="bottom-social-container">
-        <button className="bottom-social-button"><i class="fa fa-instagram"></i></button>
-        <button className="bottom-social-button"><i class="fa fa-youtube"></i></button>
-        <button className="bottom-social-button"><i class="fa fa-github"></i></button>
+        <a href="https://www.instagram.com/sanxvu/" target="_blank">
+          <button className="bottom-social-button"><i class="fa fa-instagram"></i></button>
+        </a>
+        <a href="https://www.youtube.com/@sanxvu" target="_blank">
+          <button className="bottom-social-button"><i class="fa fa-youtube"></i></button>
+        </a>
+        <a href="https://github.com/sanxvu" target="_blank">
+          <button className="bottom-social-button"><i class="fa fa-github"></i></button>
+        </a>
       </container>
     </main>
 
