@@ -15,4 +15,4 @@ This is a digital business card created using React. The app displays key inform
 - **CSS** - For styling components.
 - **Font Awesome** - For icons in the app.
 
-<img width="1214" alt="Screenshot 2024-11-05 at 10 25 57 AM" src="https://github.com/user-attachments/assets/67e6743e-2d75-4857-ab62-20d6022058b5">
+<img width="480" alt="Screenshot 2024-11-05 at 10 27 38 AM" src="https://github.com/user-attachments/assets/03f09726-2bf4-40b2-a620-80081cd6d35f">
